@@ -1,15 +1,25 @@
 {
   "files": {
     "main.css": "/Proyecto/static/css/main.45b6ef5f.css",
-    "main.js": "/Proyecto/static/js/main.90a7b726.js",
+    "main.js": "/Proyecto/static/js/main.5db8ee94.js",
     "static/js/787.201a9036.chunk.js": "/Proyecto/static/js/787.201a9036.chunk.js",
+    "static/media/La Paz.jpg": "/Proyecto/static/media/La Paz.8562587fe3dd4e78cc21.jpg",
+    "static/media/Contaminacion del suelo.jpg": "/Proyecto/static/media/Contaminacion del suelo.10334314c381e8911fe0.jpg",
+    "static/media/Contaminacion visual.jpg": "/Proyecto/static/media/Contaminacion visual.bcac8d0755b931933b92.jpg",
+    "static/media/Contaminacion hidrica.jpg": "/Proyecto/static/media/Contaminacion hidrica.f7dd4eb39cd477628c6d.jpg",
+    "static/media/Contaminacion luminica.jpg": "/Proyecto/static/media/Contaminacion luminica.bd0d3ee2a4db61b78f1d.jpg",
+    "static/media/Contaminacion termica.jpg": "/Proyecto/static/media/Contaminacion termica.3c4b43c6cf67a09bd5cd.jpg",
+    "static/media/Tarija.jpg": "/Proyecto/static/media/Tarija.0b5f3b65c0d7f07b8229.jpg",
+    "static/media/Contaminacion atmosferica.jpg": "/Proyecto/static/media/Contaminacion atmosferica.1981039874fe292925bd.jpg",
+    "static/media/Contaminacion acustica.jpg": "/Proyecto/static/media/Contaminacion acustica.fca51955b89ce7196317.jpg",
+    "static/media/Santa cruz.jpg": "/Proyecto/static/media/Santa cruz.ea5421bd76d6bba11b53.jpg",
     "index.html": "/Proyecto/index.html",
     "main.45b6ef5f.css.map": "/Proyecto/static/css/main.45b6ef5f.css.map",
-    "main.90a7b726.js.map": "/Proyecto/static/js/main.90a7b726.js.map",
+    "main.5db8ee94.js.map": "/Proyecto/static/js/main.5db8ee94.js.map",
     "787.201a9036.chunk.js.map": "/Proyecto/static/js/787.201a9036.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45b6ef5f.css",
-    "static/js/main.90a7b726.js"
+    "static/js/main.5db8ee94.js"
   ]
 }
